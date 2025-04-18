@@ -1,6 +1,8 @@
 {
     "name": "andy",
 
-    "model": "gpt-4o-mini"
+    "model": "gemini-2.5-flash-preview-04-17",
+
+    "cooldown": 5000
 
 }
